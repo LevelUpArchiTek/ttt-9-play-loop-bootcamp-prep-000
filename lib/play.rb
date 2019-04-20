@@ -39,11 +39,3 @@ end
 def play(board)
 
 end
-
-
-
-
-
-
-
-
